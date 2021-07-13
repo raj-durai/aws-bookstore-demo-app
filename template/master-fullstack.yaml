@@ -3015,3 +3015,8 @@ Outputs:
     Value: !Sub
       - https://${Domain}
       - { Domain: !GetAtt AssetsCDN.DomainName }
+  NeptuneDatabase:
+    Description: The Endpoint of Neptune Cluster
+    Export:
+      Name: !Sub '${ProjectName}NeptuneCluster'
+    Value: !GetAtt bookstoreNeptuneCluster.Endpoint

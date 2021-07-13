@@ -724,23 +724,3 @@ You're done! Any future updates you make to your repository will get pushed to y
 
 ---
 
-&nbsp;
-
-
-## Additions, forks, and contributions
-
-We are excited that you are interested in using AWS Bookstore Demo App!  This is a great place to start if you are just beginning with AWS and want to get a functional application up and running.  It is equally useful if you are looking for a sample full-stack application to fork off of and build your own custom application.  We encourage developer participation via contributions and suggested additions.  Of course you are welcome to create your own version!
-
-Please see the [contributing guidelines](CONTRIBUTING.md) for more information.
-
-For a more basic example of a full-stack web application, check out **[AWS Full-Stack Template](https://github.com/awslabs/aws-full-stack-template)** upon which AWS Bookstore Demo App was built.  As mentioned in the Overview section, AWS Full-Stack Template provides the foundational services, components, and plumbing needed to get a basic web application up and running. Users can build on top of AWS Full-Stack Template to create any application they envision, whether a travel booking tool, a blog, or another web app.  This AWS Bookstore Demo App is just one example of what you can create using AWS Full-Stack Template.
-
-&nbsp;
-
----
-
-&nbsp;
-
-## Questions and contact
-
-For questions on AWS Bookstore Demo App, or to contact the team, please leave a comment on GitHub.
